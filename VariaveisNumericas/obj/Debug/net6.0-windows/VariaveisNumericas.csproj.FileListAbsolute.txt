@@ -1,0 +1,17 @@
+C:\AulaFiap\VariaveisNumericas\VariaveisNumericas\bin\Debug\net6.0-windows\VariaveisNumericas.exe
+C:\AulaFiap\VariaveisNumericas\VariaveisNumericas\bin\Debug\net6.0-windows\VariaveisNumericas.deps.json
+C:\AulaFiap\VariaveisNumericas\VariaveisNumericas\bin\Debug\net6.0-windows\VariaveisNumericas.runtimeconfig.json
+C:\AulaFiap\VariaveisNumericas\VariaveisNumericas\bin\Debug\net6.0-windows\VariaveisNumericas.dll
+C:\AulaFiap\VariaveisNumericas\VariaveisNumericas\bin\Debug\net6.0-windows\ref\VariaveisNumericas.dll
+C:\AulaFiap\VariaveisNumericas\VariaveisNumericas\bin\Debug\net6.0-windows\VariaveisNumericas.pdb
+C:\AulaFiap\VariaveisNumericas\VariaveisNumericas\obj\Debug\net6.0-windows\VariaveisNumericas.csproj.AssemblyReference.cache
+C:\AulaFiap\VariaveisNumericas\VariaveisNumericas\obj\Debug\net6.0-windows\VariaveisNumericas.Form1.resources
+C:\AulaFiap\VariaveisNumericas\VariaveisNumericas\obj\Debug\net6.0-windows\VariaveisNumericas.csproj.GenerateResource.cache
+C:\AulaFiap\VariaveisNumericas\VariaveisNumericas\obj\Debug\net6.0-windows\VariaveisNumericas.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaFiap\VariaveisNumericas\VariaveisNumericas\obj\Debug\net6.0-windows\VariaveisNumericas.AssemblyInfoInputs.cache
+C:\AulaFiap\VariaveisNumericas\VariaveisNumericas\obj\Debug\net6.0-windows\VariaveisNumericas.AssemblyInfo.cs
+C:\AulaFiap\VariaveisNumericas\VariaveisNumericas\obj\Debug\net6.0-windows\VariaveisNumericas.csproj.CoreCompileInputs.cache
+C:\AulaFiap\VariaveisNumericas\VariaveisNumericas\obj\Debug\net6.0-windows\VariaveisNumericas.dll
+C:\AulaFiap\VariaveisNumericas\VariaveisNumericas\obj\Debug\net6.0-windows\ref\VariaveisNumericas.dll
+C:\AulaFiap\VariaveisNumericas\VariaveisNumericas\obj\Debug\net6.0-windows\VariaveisNumericas.pdb
+C:\AulaFiap\VariaveisNumericas\VariaveisNumericas\obj\Debug\net6.0-windows\VariaveisNumericas.genruntimeconfig.cache
